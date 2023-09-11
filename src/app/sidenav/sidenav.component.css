@@ -74,7 +74,7 @@ box-shadow: 0.063rem 0 1.25rem 0 #8690a3;
         color: #f3f3f3;
         text-decoration: none;
         border-radius: 0.625rem;
-        transition: color .3s ease;
+        transition: all .3s ease;
         
         .sidenav-nav-icon{
             font-size: 22px;
