@@ -86,7 +86,7 @@ box-shadow: 0.063rem 0 1.25rem 0 #8690a3;
 
         .sidenav-link-text{
             margin-left: 1.5rem;
-            font-size: 40px;
+            font-size: 20px;
             
         }
     }
@@ -99,4 +99,13 @@ box-shadow: 0.063rem 0 1.25rem 0 #8690a3;
     }
 }
 
+}
+
+.active{
+    background-color: #fff;
+
+    .sidenav-link-icon,
+    .sidenav-link-text {
+        color: #000;
+    }
 }
